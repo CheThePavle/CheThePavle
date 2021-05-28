@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![CheThePavle github статус](https://github-readme-stats.vercel.app/api?username=CheThePavle)](https://github.com/CheThePavle)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheThePavle&bg_color=30,ffffff,fcffff)](https://github.com/CheThePavle)
 <!--
 **CheThePavle/CheThePavle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
