@@ -8,6 +8,11 @@ Became a developer in 2020.
 
 Participated in the regional championship WorldSkills Russia 2021, 2022. In 2022, he took first place, after which he went through the qualifiers for the national finals and took 4th place.
 
+Worked on OS: Windows. Ubuntu. Manjaro.
+
+Worked with software: Git, Visual Studio Code, PhpStorm, DBeaver, OpenServer, XAMPP, Various browsers, Adobe programs
+and many others :)
+
 My email: pashatchikurov2@yandex.ru
 
 
