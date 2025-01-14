@@ -26,6 +26,8 @@ My email: pashatchikurov2@yandex.ru
 
 > PHP (Laravel)
 
+> Python
+
 > Database (MySQL, PostgreSQL, MS SQL Server, SQLite)
 
 > WordPress (customizing your themes and plugins)
